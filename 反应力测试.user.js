@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         反应力测试脚本
+// @name         反应力测试
 // @namespace    https://github.com/YFTree
 // @version      1
 // @description  自动点击反应力测试中的绿色圆形
