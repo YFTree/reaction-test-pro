@@ -4,7 +4,7 @@
 // @version      1
 // @description  自动点击反应力测试中的绿色圆形
 // @author       YFTree
-// @match        https://www.arealme.com/reaction-test/cn
+// @match        https://www.arealme.com/reaction-test/*
 // @grant        none
 // @license      MIT
 // @downloadURL https://update.greasyfork.org/scripts/527386/%E5%8F%8D%E5%BA%94%E5%8A%9B%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC.user.js
